@@ -1,0 +1,12 @@
+# secrets
+.env
+
+# local data (your receipts stay on your machine)
+data/*.db
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
